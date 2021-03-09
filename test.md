@@ -42,6 +42,7 @@ Here are some of the key takeaways from David Phillips excellent talk and the 6 
 As we discussed last week, storytelling is a powerful teaching tool. That said, we should never forget to put related and well-constructed stories in our persuasive presentations. Note how Don, in the following video, tells a series of memorable and funny stories to help him make key points in his, Life After Death by PowerPoint presentation.
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/KbSPPFYxx3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(9 min)
 
 Please skim over following article on storytelling techniques for presentations, and think of ways you could incorporate some of the techniques into the presentation you will make for this week’s assignment, or use them to critique the TED talk you review:
 
@@ -59,9 +60,9 @@ Main points from Nayomi’s article on storytelling in presentations (make sure 
 
 ### Hands-on This Week
 
-**Create a Presentation using Multimedia Learning Principles:**
+**Create a 2 minute Presentation using Multimedia Learning Principles:**
 
+* Use PowerPoint to make your presentation, or any other tool you like, including tools like Google Presentations or Canva.
 * Create a 2-minute instructional presentation that conforms as best you can to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices, techniques, and storytelling that have been outlined above.
-* You can use PowerPoint to make your presentation, or any other tool you like, including tools like Google Presentations or Canva.
 * Record your presentation using screen capture software like Screencastify for example.
-* Post your presentation video to your blog in this week’s blog post. NOTE: If you are uncomfortable posting your presentation publically, please thoroughly review the TED Talk video of your choice through the lens of multimedia learning principles, dual coding theory, and cognitive load theory (see the Topic 8 blog post instructions below for more details.
+* Post your presentation video to your blog in this week’s blog post.
