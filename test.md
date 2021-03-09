@@ -17,7 +17,11 @@ We have all been there before… In a class or a meeting and the presenter is re
 
 Because of our growing expertise in multimedia learning theory, we now have the theoretical tools at our disposal to explain why reading densely packed PowerPoint slides is ineffective, along with why a number of other PowerPoint "sins" should be avoided if we want to make persuasive and memorable presentations. Let's start by watching an excellent video that tells some stories about awful PowerPoint slides, and models the use of 5 principles, based on cognitive load theory and multimedia learning principles, that we can use to make our presentations persuasive and effective learning objects.
 
-Video Here...
+<iframe src="https://edtechuvic.ca/edci337/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="623" height="411" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://edtechuvic.ca/edci337/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+Please skim over a TED Talk article with some overlapping and new suggestions on how we can improve our presentations:
+
+## Next Section
  
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
   
