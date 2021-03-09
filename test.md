@@ -1,7 +1,8 @@
 # Persuasive Presentations or Death by PowerPoint
 
-### Learning Objectives - By the end of this workshop you should be able to:
+### Learning Objectives
 
+By the end of this workshop you should be able to:
 * Explain which multimedia learning principles & learning theories relate to multimedia presentations
 * Outline best practices for creating following the best practices and techniques for creating a persuasive and educational multimedia presentation
 * Create an instructional multimedia presentation that conforms to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices and techniques
