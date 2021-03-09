@@ -17,7 +17,7 @@ We have all been there before… In a class or a meeting and the presenter is re
 
 Because of our growing expertise in multimedia learning theory, we now have the theoretical tools at our disposal to explain why reading densely packed PowerPoint slides is ineffective, along with why a number of other PowerPoint "sins" should be avoided if we want to make persuasive and memorable presentations. Let's start by watching an excellent video that tells some stories about awful PowerPoint slides, and models the use of 5 principles, based on cognitive load theory and multimedia learning principles, that we can use to make our presentations persuasive and effective learning objects.
 
-<iframe src="https://edtechuvic.ca/edci337/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="623" height="411" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://edtechuvic.ca/edci337/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://edtechuvic.ca/edci337/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="600" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://edtechuvic.ca/edci337/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 (19 min)
 
 Please skim over a TED Talk article with some overlapping and new suggestions on how we can improve our presentations:
@@ -44,7 +44,7 @@ Here are some of the key takeaways from David Phillips excellent talk and the 6 
 
 As we discussed last week, storytelling is a powerful teaching tool. That said, we should never forget to put related and well-constructed stories in our persuasive presentations. Note how Don, in the following video, tells a series of memorable and funny stories to help him make key points in his, Life After Death by PowerPoint presentation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KbSPPFYxx3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/KbSPPFYxx3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please skim over following article on storytelling techniques for presentations, and think of ways you could incorporate some of the techniques into the presentation you will make for this week’s assignment, or use them to critique the TED talk you review:
 
