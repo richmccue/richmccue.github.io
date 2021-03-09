@@ -1,12 +1,15 @@
-# Markdown Style Guide #
+# Topic 8 - Persuasive Presentations or Death by PowerPoint (Mar 8-14) #
 
-This is a demo of all styled elements in Jekyll Now. 
+## Topic 8 Learning Objectives. By the end of this week you should be able to: ## 
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
+* Explain which multimedia learning principles & learning theories relate to multimedia presentations
+* Outline best practices for creating following the best practices and techniques for creating a persuasive and educational multimedia presentation
+* Create an instructional multimedia presentation that conforms to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices and techniques
+* Explain why lessons plans are important, and be able to create a simple lesson plan on a topic of interest
 
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
+## Introduction##
 
-## Header 2 (H1 is reserved for post titles)##
+We have all been there before… In a class or a meeting and the presenter is reading text off of densely packed PowerPoint slide after slide. If it isn’t death by PowerPoint, reading text off [poorly constructed slides](https://www.pcworld.idg.com.au/slideshow/366369/world-worst-powerpoint-presentations/) to an audience is a very **ineffective** way to teach or convey information in a business setting. We're going to focus this week on learning tips and tricks so your presentations engage and persuade, and not bore your audience to death by PowerPoint.
 
 ### Header 3
 
