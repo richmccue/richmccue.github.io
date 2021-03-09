@@ -62,58 +62,9 @@ Main points from Nayomi’s article on storytelling in presentations (make sure 
 
 ## Hands-on This Week
 
-Create a Presentation using Multimedia Learning Principles
+**Create a Presentation using Multimedia Learning Principles:**
 
 * Create a 2-minute instructional presentation that conforms as best you can to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices, techniques, and storytelling that have been outlined above.
 * You can use PowerPoint to make your presentation, or any other tool you like, including tools like Google Presentations or Canva.
 * Record your presentation using screen capture software like Screencastify for example.
 * Post your presentation video to your blog in this week’s blog post. NOTE: If you are uncomfortable posting your presentation publically, please thoroughly review the TED Talk video of your choice through the lens of multimedia learning principles, dual coding theory, and cognitive load theory (see the Topic 8 blog post instructions below for more details.
-
-## For Reference
- 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-  
-An image, located within /images
-
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
-
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
-
-1. An
-2. ordered
-3. list
-
-Inline markup styles: 
-
-- _italics_
-- **bold**
-- `code()` 
- 
-> Blockquote
->> Nested Blockquote 
- 
-Syntax highlighting can be used by wrapping your code in a liquid tag like so:
-
-{{ "{% highlight javascript " }}%}  
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-{{ "{% endhighlight " }}%}  
-
-creates...
-
-{% highlight javascript %}
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-{% endhighlight %}
- 
-Use two trailing spaces  
-on the right  
-to create linebreak tags  
- 
-Finally, horizontal lines
- 
-----
-****
