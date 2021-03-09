@@ -21,7 +21,7 @@ Because of our growing expertise in multimedia learning theory, we now have the 
 (19 min)
 
 Please skim over a TED Talk article with some overlapping and new suggestions on how we can improve our presentations:
-<blockquote class="wp-embedded-content"><a href="https://ideas.ted.com/6-dos-and-donts-for-next-level-slides-from-a-ted-presentation-expert/">6 dos and don&#8217;ts for next-level slides, from a TED presentation expert</a></blockquote>
+
 <script type='text/javascript'>
 <!--//--><![CDATA[//><!--
 		/*! This file is auto-generated */
@@ -47,6 +47,27 @@ As we discussed last week, storytelling is a powerful teaching tool. That said, 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KbSPPFYxx3o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please skim over following article on storytelling techniques for presentations, and think of ways you could incorporate some of the techniques into the presentation you will make for this week’s assignment, or use them to critique the TED talk you review:
+
+> [7 Storytelling Techniques Used by the Most Inspiring TED Presenters](https://visme.co/blog/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/)
+
+Main points from Nayomi’s article on storytelling in presentations (make sure you read the above article if you haven’t already to get the details for each storytelling suggestion, including presentation video examples):
+
+1. Immerse your audience in a story
+2. Tell a personal story
+3. Create suspense
+4. Bring characters to life
+5. Show. Don’t tell
+6. Build up to a S.T.A.R. moment
+7. End with a positive takeaway
+
+## Hands-on This Week
+
+Create a Presentation using Multimedia Learning Principles
+
+* Create a 2-minute instructional presentation that conforms as best you can to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices, techniques, and storytelling that have been outlined above.
+* You can use PowerPoint to make your presentation, or any other tool you like, including tools like Google Presentations or Canva.
+* Record your presentation using screen capture software like Screencastify for example.
+* Post your presentation video to your blog in this week’s blog post. NOTE: If you are uncomfortable posting your presentation publically, please thoroughly review the TED Talk video of your choice through the lens of multimedia learning principles, dual coding theory, and cognitive load theory (see the Topic 8 blog post instructions below for more details.
 
 ## For Reference
  
