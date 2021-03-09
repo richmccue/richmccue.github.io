@@ -30,15 +30,15 @@ Please skim over a TED Talk article with some overlapping and new suggestions on
 </script><iframe sandbox="allow-scripts" security="restricted" src="https://ideas.ted.com/6-dos-and-donts-for-next-level-slides-from-a-ted-presentation-expert/embed/" width="600" height="400" title="&#8220;6 dos and don&#8217;ts for next-level slides, from a TED presentation expert&#8221; &#8212; ideas.ted.com" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="wp-embedded-content"></iframe>
 
 Here are some of the key takeaways from David Phillips excellent talk and the 6 dos and don’ts article:
-1. Only 1 idea per slide – Cognitive Load Theory
-2. No more than 6 objects per slide (including title and images) – Cognitive Load Theory
-3. Don’t read text off your side, let you audience read it – Redundancy Principle
-4. If in doubt use an illustrative image and short text on a slide, and then tell the rest of your story via narration – Multimedia & Modality Principles
-5. Make sure the most prominent feature of each of your slides is also the most important – Signalling Principle
-6. Make sure your slides tell your story in a way that your audience can follow
-7. Vary the tone of your voice as you present, and make sure to pause at transition points in your presentation, and after making an important point to emphasize it
-8. Use san-serif fonts like Ariel or Helvetica as they are easier to read on screens than serif fonts like Times New Roman
-9. Use contrast to move your audience around the information on your slide – Signalling & Coherence Principles
+1. **Only 1 idea per slide** – Cognitive Load Theory
+2. **No more than 6 objects per slide** (including title and images) – Cognitive Load Theory
+3. **Don’t read text off your side**, let you audience read it – Redundancy Principle
+4. If in doubt **use an illustrative image and short text on a slide**, and then tell the rest of your story via narration – Multimedia & Modality Principles
+5. Make sure **the most prominent feature of each of your slides is also the most important** – Signalling Principle
+6. Make sure your slides **tell your story in a way that your audience can follow**
+7. **Vary the tone of your voice as you present**, and make sure to **pause at transition points** in your presentation, and after making an important point to emphasize it
+8. **Use san-serif fonts like Ariel** or Helvetica as they are easier to read on screens than serif fonts like Times New Roman
+9. **Use contrast to move your audience around the information on your slide** – Signalling & Coherence Principles
 
 ## Storytelling & PowerPoint?
 
