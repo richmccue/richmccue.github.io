@@ -1,19 +1,19 @@
 # Persuasive Presentations or Death by PowerPoint
 
-## Learning Objectives - By the end of this workshop you should be able to: ## 
+### Learning Objectives - By the end of this workshop you should be able to:
 
 * Explain which multimedia learning principles & learning theories relate to multimedia presentations
 * Outline best practices for creating following the best practices and techniques for creating a persuasive and educational multimedia presentation
 * Create an instructional multimedia presentation that conforms to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices and techniques
 * Explain why lessons plans are important, and be able to create a simple lesson plan on a topic of interest
 
-## Introduction
+### Introduction
 
 We have all been there before… In a class or a meeting and the presenter is reading text off of densely packed PowerPoint slide after slide. If it isn’t death by PowerPoint, reading text off [poorly constructed slides](https://www.pcworld.idg.com.au/slideshow/366369/world-worst-powerpoint-presentations/) to an audience is a very **ineffective** way to teach or convey information in a business setting. We're going to focus this week on learning tips and tricks so your presentations engage and persuade, and not bore your audience to death by PowerPoint.
 
 <img src="https://images.squarespace-cdn.com/content/v1/51b35a70e4b08f55af505597/1477302784372-9I5FEDH98AIEXEIULNTN/ke17ZwdGBToddI8pDm48kMhIAB6A6NPEuLO6xIBFR8IUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcLJUx6tMXostc6VvHi0nEmTuuUpdHjcw2Xe06EyKjzy0zXI8kLY86438qSdXySJNK/Death+by+PowerPoint" title="https://www.activepresence.com/blog/the-death-by-powerpoint-myth" width="600"/>
 
-## How Can You Avoid Death by PowerPoint?
+### How Can You Avoid Death by PowerPoint?
 
 Because of our growing expertise in multimedia learning theory, we now have the theoretical tools at our disposal to explain why reading densely packed PowerPoint slides is ineffective, along with why a number of other PowerPoint "sins" should be avoided if we want to make persuasive and memorable presentations. Let's start by watching an excellent video that tells some stories about awful PowerPoint slides, and models the use of 5 principles, based on cognitive load theory and multimedia learning principles, that we can use to make our presentations persuasive and effective learning objects.
 
@@ -40,7 +40,7 @@ Here are some of the key takeaways from David Phillips excellent talk and the 6 
 8. **Use san-serif fonts like Ariel** or Helvetica as they are easier to read on screens than serif fonts like Times New Roman
 9. **Use contrast to move your audience around the information on your slide** – Signalling & Coherence Principles
 
-## Storytelling & PowerPoint?
+### Storytelling & PowerPoint?
 
 As we discussed last week, storytelling is a powerful teaching tool. That said, we should never forget to put related and well-constructed stories in our persuasive presentations. Note how Don, in the following video, tells a series of memorable and funny stories to help him make key points in his, Life After Death by PowerPoint presentation.
 
@@ -60,7 +60,7 @@ Main points from Nayomi’s article on storytelling in presentations (make sure 
 6. Build up to a S.T.A.R. moment
 7. End with a positive takeaway
 
-## Hands-on This Week
+### Hands-on This Week
 
 **Create a Presentation using Multimedia Learning Principles:**
 
