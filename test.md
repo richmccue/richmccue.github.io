@@ -1,5 +1,4 @@
-# Markdown Style Guide
----
+# Markdown Style Guide #
 
 This is a demo of all styled elements in Jekyll Now. 
 
