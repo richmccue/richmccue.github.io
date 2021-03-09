@@ -69,4 +69,4 @@ Please skim over following article on storytelling techniques for presentations,
 
 **To earn a DSC Badge:**
 
-Email a link to your presentation video to: (rmccue@uvic.ca) 
+Email a link to your presentation video to: rmccue@uvic.ca 
