@@ -48,15 +48,15 @@ Please skim over following article on storytelling techniques for presentations,
 
 > [7 Storytelling Techniques Used by the Most Inspiring TED Presenters](https://visme.co/blog/7-storytelling-techniques-used-by-the-most-inspiring-ted-presenters/)
 
-Main points from Nayomi’s article on storytelling in presentations (make sure you read the above article if you haven’t already to get the details for each storytelling suggestion, including presentation video examples):
-
-1. Immerse your audience in a story
-2. Tell a personal story
-3. Create suspense
-4. Bring characters to life
-5. Show. Don’t tell
-6. Build up to a S.T.A.R. moment
-7. End with a positive takeaway
+>Main points from Nayomi’s article on storytelling in presentations (make sure you read the above article if you haven’t already to get the details for each storytelling suggestion, including presentation video examples):
+>
+>1. Immerse your audience in a story
+>2. Tell a personal story
+>3. Create suspense
+>4. Bring characters to life
+>5. Show. Don’t tell
+>6. Build up to a S.T.A.R. moment
+>7. End with a positive takeaway
 
 ### Hands-on This Week
 
