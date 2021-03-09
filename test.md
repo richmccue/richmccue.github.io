@@ -11,7 +11,7 @@
 
 We have all been there before… In a class or a meeting and the presenter is reading text off of densely packed PowerPoint slide after slide. If it isn’t death by PowerPoint, reading text off [poorly constructed slides](https://www.pcworld.idg.com.au/slideshow/366369/world-worst-powerpoint-presentations/) to an audience is a very **ineffective** way to teach or convey information in a business setting. We're going to focus this week on learning tips and tricks so your presentations engage and persuade, and not bore your audience to death by PowerPoint.
 
-![Death by PowerPoint](https://images.squarespace-cdn.com/content/v1/51b35a70e4b08f55af505597/1477302784372-9I5FEDH98AIEXEIULNTN/ke17ZwdGBToddI8pDm48kMhIAB6A6NPEuLO6xIBFR8IUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcLJUx6tMXostc6VvHi0nEmTuuUpdHjcw2Xe06EyKjzy0zXI8kLY86438qSdXySJNK/Death+by+PowerPoint =500x "https://www.activepresence.com/blog/the-death-by-powerpoint-myth")
+![Death by PowerPoint](https://images.squarespace-cdn.com/content/v1/51b35a70e4b08f55af505597/1477302784372-9I5FEDH98AIEXEIULNTN/ke17ZwdGBToddI8pDm48kMhIAB6A6NPEuLO6xIBFR8IUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcLJUx6tMXostc6VvHi0nEmTuuUpdHjcw2Xe06EyKjzy0zXI8kLY86438qSdXySJNK/Death+by+PowerPoint =500x)
 
 ## How Can You Avoid Death by PowerPoint?
 
