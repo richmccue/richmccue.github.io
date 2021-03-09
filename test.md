@@ -66,3 +66,7 @@ Please skim over following article on storytelling techniques for presentations,
 * Create a 2-minute instructional presentation that conforms as best you can to multimedia learning principles, dual coding theory, and cognitive load theory, as well as follows presentation best practices, techniques, and storytelling that have been outlined above.
 * Record your presentation using screen capture software like Screencastify for example.
 * Post your presentation video to your blog in this week’s blog post.
+
+**To earn a DSC Badge:**
+
+Email a link to your presentation video to: (rmccue@uvic.ca) 
