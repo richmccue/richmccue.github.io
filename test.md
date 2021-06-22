@@ -1,5 +1,5 @@
 # Persuasive Presentations or Death by PowerPoint???
-## Assited by Brittany
+## [Assited by Brittany](https://uvic.ca/library/dsc)
 
 ### Learning Objectives
 
