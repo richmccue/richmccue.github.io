@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rich McCue GitPages Website</title>
-    <!-- Google Fonts for professional typography -->
+    <!-- Google Fonts link for modern typography -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             color: #333;
-            background-color: #f9f9f9;
+            background-color: #f4f4f4;
             margin: 0;
             padding: 0;
             display: flex;
@@ -20,43 +20,53 @@
         .container {
             max-width: 800px;
             width: 90%;
-            background: #fff;
-            margin-top: 50px;
-            padding: 40px;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-            border-top: 4px solid #21759b; /* Site's signature blue */
+            background: #ffffff;
+            margin-top: 60px;
+            padding: 50px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            border-top: 5px solid #21759b;
         }
         h1 {
             font-weight: 300;
-            font-size: 2.5rem;
-            color: #222;
-            margin-bottom: 30px;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
+            font-size: 2.2rem;
+            color: #2c2c2c;
+            margin-bottom: 2rem;
+            border-bottom: 1px solid #eaeaea;
+            padding-bottom: 0.5rem;
         }
         ul {
             list-style: none;
             padding: 0;
         }
         li {
-            margin-bottom: 15px;
-            padding-left: 0;
+            margin-bottom: 1rem;
         }
         a {
             color: #21759b;
             text-decoration: none;
             font-weight: 400;
-            transition: color 0.2s ease;
+            transition: color 0.15s ease-in-out;
         }
         a:hover {
-            color: #d54e21; /* Traditional WordPress hover orange-red */
+            color: #d54e21;
             text-decoration: underline;
         }
         footer {
-            margin-top: 50px;
-            font-size: 0.8rem;
-            color: #777;
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid #eaeaea;
             text-align: center;
+            font-size: 0.9rem;
+            color: #666;
+        }
+        .license-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+        .license-container img {
+            border-width: 0;
         }
     </style>
 </head>
@@ -72,7 +82,12 @@
         </ul>
 
         <footer>
-            <p>&copy; 2026 Rich McCue. Professionally styled for GitHub Pages.</p>
+            <div class="license-container">
+                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+                    <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+                </a>
+                <span>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</span>
+            </div>
         </footer>
     </div>
 </body>
