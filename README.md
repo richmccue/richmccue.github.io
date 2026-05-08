@@ -1,2 +1,2 @@
-https://richmccue.github.io/index.html
-https://richmccue.github.io/vilsc.html
+[Home Page](https://richmccue.github.io/index.html)
+[VILSC 2026 Schedule](https://richmccue.github.io/vilsc.html)
