@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VILSC 2026 Program Summary</title>
+    <title>VILSC 2026 Interactive Schedule</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -43,9 +43,17 @@
             padding: 5px;
             outline: none;
             color: #005a9c;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
-        summary::-webkit-details-marker {
+        .room-tag {
+            font-size: 0.75rem;
+            background: #e0eafc;
             color: #005a9c;
+            padding: 2px 8px;
+            border-radius: 4px;
+            white-space: nowrap;
         }
         .session-info {
             margin-top: 10px;
@@ -58,6 +66,7 @@
             color: #555;
             margin-top: 8px;
             display: block;
+            font-size: 0.9rem;
         }
         .time-header {
             background-color: #005a9c;
@@ -74,13 +83,13 @@
 <body>
 
 <header>
-    <h1>Vancouver Island Library Staff Conference 2026</h1>
-    <div class="date-location">Friday, May 8, 2026<br>University of Victoria</div>
+    <h1>VILSC 2026 Interactive Schedule</h1>
+    <div class="date-location">Friday, May 8, 2026<br>MacLaurin Building, UVic</div>
 </header>
 
 <div class="time-header">9:00 - 10:30 AM</div>
 <details>
-    <summary>Keynote: Vickery Bowles - Lam Auditorium</summary>
+    <summary>Keynote: Vickery Bowles <span class="room-tag">David Lam Auditorium</span></summary>
     <div class="session-info">
         Vickery Bowles (Toronto's City Librarian 2015-2025) discusses the vital role of public libraries in supporting social connections, civic engagement, and democracy.
     </div>
@@ -88,144 +97,215 @@
 
 <div class="time-header">SESSION 1 (10:45 - 11:30 AM)</div>
 <details>
-    <summary>1A: Trans(formation): Digitizing the Rikki Swin Institute Collection - D101</summary>
+    <summary>1A: Trans(formation) Digitization <span class="room-tag">A104</span></summary>
     <div class="session-info">
-        Review of a project to digitize 519 audio-visual items documenting Trans+ activism (1970s-2000s), focusing on ethical tensions and community-created best practices.
-        <span class="presenter">Presenter: Michael Radmacher (UVic Libraries)</span>
+        A review of the ethical and practical tensions in digitizing at-risk audio-visual items documenting histories of Trans+ activism (1970s-2000s).
+        <span class="presenter">Presenter: Michael Radmacher</span>
     </div>
 </details>
 
 <details>
-    <summary>1B-1: Relational Leadership and Relational Coordination - D114</summary>
+    <summary>1B-1: Relational Leadership <span class="room-tag">501</span></summary>
     <div class="session-info">
         Introduction to relational coordination as a cycle of continuous improvement to streamline library processes and recognize collective learning.
-        <span class="presenter">Presenter: Melissa J. Goodchild (GVPL)</span>
+        <span class="presenter">Presenter: Melissa J. Goodchild</span>
     </div>
 </details>
 
 <details>
-    <summary>1B-2: Strategies for Introverts and the Socially Anxious - D114</summary>
+    <summary>1B-2: Strategies for Introverts <span class="room-tag">501</span></summary>
     <div class="session-info">
-        Exploration of inclusive classroom techniques that move beyond verbal participation to support introverted or socially anxious students.
-        <span class="presenter">Presenters: Tina Bebbington & Bill Blair (UVic Libraries)</span>
+        Teaching techniques to create inclusive library classrooms for introverted or socially anxious students, moving beyond verbal participation.
+        <span class="presenter">Presenters: Tina Bebbington, Bill Blair</span>
     </div>
 </details>
 
 <details>
-    <summary>1C-1: Beginning the Journey: UVic's Indigenous Hub - D115</summary>
+    <summary>1C-1: UVic's Indigenous Hub <span class="room-tag">D120</span></summary>
     <div class="session-info">
-        A look at the creation of a digital space that surfaces local Indigenous collections and shares reconciliation actions through web design and curation.
-        <span class="presenter">Presenters: Caitlin Keenan, Jessie Lampreau, & Artie Goshulak (UVic Libraries)</span>
+        Insights into creating a digital space that surfaces local Indigenous collections and shares reconciliation actions through web design and curation.
+        <span class="presenter">Presenters: Caitlin Keenan, Jessie Lampreau, Artie Goshulak</span>
     </div>
 </details>
 
 <details>
-    <summary>1C-2: Vibe Coding Language Revitalization Tools - D115</summary>
+    <summary>1C-2: Vibe Coding Revitalization <span class="room-tag">D120</span></summary>
     <div class="session-info">
-        How to use generative AI to build custom web applications, like language soundboards, without traditional programming knowledge.
-        <span class="presenter">Presenter: Rich McCue (UVic Libraries)</span>
+        How to use generative AI "Vibe Coding" to turn creative ideas into functional web software, such as language soundboards, without traditional programming.
+        <span class="presenter">Presenter: Rich McCue</span>
     </div>
 </details>
 
 <details>
-    <summary>1D: Censorship in Western Canadian School Libraries - D103</summary>
+    <summary>1D: Censorship in School Libraries <span class="room-tag">D101</span></summary>
     <div class="session-info">
-        Discussion on the landscape of Information Freedom, far-right censorship tactics, and recent challenges in the south island area.
-        <span class="presenter">Presenter: Adam Reese (GVPL)</span>
+        Landscape of Information Freedom and censorship in western Canadian public school libraries, covering far-right tactics and recent challenges.
+        <span class="presenter">Presenter: Adam Reese</span>
     </div>
 </details>
 
 <details>
-    <summary>1E: It's Like Talking to a Good Friend (AI) - D110</summary>
+    <summary>1E: It's Like Talking to a Friend <span class="room-tag">D103</span></summary>
     <div class="session-info">
-        Discussion on the irreplaceability of library workers as generative AI increasingly acts as a counselor and content creator.
-        <span class="presenter">Presenters: Allison Jones & Brooklyn Kemp (GVPL)</span>
+        Discussion on the importance of human connection as generative AI fills the role of confidant, counselor, and content creator.
+        <span class="presenter">Presenters: Allison Jones, Brooklyn Kemp</span>
     </div>
 </details>
 
 <div class="time-header">SESSION 2 (11:45 AM - 12:30 PM)</div>
 <details>
-    <summary>2A: Everything Old is LLM Again (AI) - D101</summary>
+    <summary>2A: Everything Old is LLM Again <span class="room-tag">A104</span></summary>
     <div class="session-info">
-        How digitized historical collections are used to build better AI systems by allowing models to encounter historical uncertainty.
-        <span class="presenter">Presenter: Corey Davis (UVic Libraries)</span>
+        Explaining how "historic LLMs" learn from older texts and newspapers to overcome hindsight bias in AI systems.
+        <span class="presenter">Presenter: Corey Davis</span>
     </div>
 </details>
 
 <details>
-    <summary>2B: Evolution of Service Points in McPherson Library - D115</summary>
+    <summary>2B: Evolution of Service Points <span class="room-tag">501</span></summary>
     <div class="session-info">
-        A 60-year retrospective on how library use and design theory have reshaped physical circulation and reference spaces.
-        <span class="presenter">Presenter: Page DeWolfe (UVic Libraries)</span>
+        A 60-year retrospective on physical renovations in McPherson Library and how design theory impacts library policy and scheduling.
+        <span class="presenter">Presenter: Page DeWolfe</span>
     </div>
 </details>
 
 <details>
-    <summary>2C: What Is...Data Literacy? (Jeopardy-Style) - D114</summary>
+    <summary>2C: Data Literacy Jeopardy <span class="room-tag">D120</span></summary>
     <div class="session-info">
-        An interactive session covering terminology, visualization, security, and accessibility through a Jeopardy-style game.
-        <span class="presenter">Presenter: Cairo Sanders (UVic Libraries)</span>
+        An interactive, Jeopardy-style guide covering terminology, visualization, security, and accessibility concepts.
+        <span class="presenter">Presenter: Cairo Sanders</span>
     </div>
 </details>
 
 <details>
-    <summary>2D: BC's Historic Traveling Libraries - D103</summary>
+    <summary>2D: Historic Traveling Libraries <span class="room-tag">D101</span></summary>
     <div class="session-info">
-        Exploration of the Provincial Library's Traveling Libraries program (begun 1898) and how historical outreach models inform today.
-        <span class="presenter">Presenters: Ciara O'Kelly & Anna Loster (Legislative Library of BC)</span>
+        Exploring the legacy of British Columbia's traveling library program (begun 1898) and its relevance to modern outreach.
+        <span class="presenter">Presenters: Ciara O'Kelly, Anna Loster</span>
     </div>
 </details>
 
 <details>
-    <summary>2E-1: Reversing Outreach (Lightning Talk) - D110</summary>
+    <summary>2E-1: Reversing Outreach <span class="room-tag">D103</span></summary>
     <div class="session-info">
-        A strategy to reach out to the research community to learn about their work rather than simply "pushing" library services.
-        <span class="presenter">Presenter: Krista Godfrey (UVic Libraries)</span>
+        A strategy to engage the research community by learning about their work instead of just pushing existing library services.
+        <span class="presenter">Presenter: Krista Godfrey</span>
     </div>
 </details>
 
 <details>
-    <summary>2E-2: Ten Years of KULA - D110</summary>
+    <summary>2E-2: Ten Years of KULA <span class="room-tag">D103</span></summary>
     <div class="session-info">
-        Reflecting on a decade of the scholarly journal KULA and its exploration of knowledge production and technology.
-        <span class="presenter">Presenters: Karina Greenwood, Samantha MacFarlane, & Caroline Winter (UVic Libraries)</span>
+        Reflecting on a decade of the scholarly journal KULA and the changing digital environment of knowledge production.
+        <span class="presenter">Presenters: Karina Greenwood, Samantha MacFarlane, Caroline Winter</span>
+    </div>
+</details>
+
+<details>
+    <summary>2E-3: Library Futures Academy <span class="room-tag">D103</span></summary>
+    <div class="session-info">
+        A lightning talk outlining the developments of "library futures" within the KULA Academy at UVic Libraries.
+        <span class="presenter">Presenter: Matt Huculak</span>
     </div>
 </details>
 
 <div class="time-header">SESSION 3 (1:30 - 2:15 PM)</div>
 <details>
-    <summary>3B: Permacomputing Community of Practice</summary>
+    <summary>3A-1: Seeds of Collaboration <span class="room-tag">D134</span></summary>
     <div class="session-info">
-        Workshop on sustainable computing, maximizing hardware lifespan, and reducing reliance on extractive proprietary systems.
-        <span class="presenter">Presenters: John Durno (UVic), Dana McFarland & Luke McLeod (VIU)</span>
+        Introducing the Open Science Community of Victoria (OSCV) to advance transparent and accessible research.
+        <span class="presenter">Presenter: Monique Grenier</span>
     </div>
 </details>
 
 <details>
-    <summary>3C: Identification, Identity, and Community Participation</summary>
+    <summary>3A-2: Pop-Up Recording Studio <span class="room-tag">D134</span></summary>
     <div class="session-info">
-        Logistics and impact of ID Clinics and TransID Clinics offered through partnerships with community organizations.
-        <span class="presenter">Presenters: Megan Clark, Nina Mosallaei, & Caitlin Ottenbreit (GVPL)</span>
+        Removing barriers to music recording at Salt Spring Island Public Library with professional engineering.
+        <span class="presenter">Presenter: Ryan Shepard</span>
+    </div>
+</details>
+
+<details>
+    <summary>3B: Permacomputing Community <span class="room-tag">501</span></summary>
+    <div class="session-info">
+        Brainstorming sustainable computing practices to extend hardware life and decrease reliance on extractive proprietary systems.
+        <span class="presenter">Presenters: John Durno, Dana McFarland, Luke McLeod</span>
+    </div>
+</details>
+
+<details>
+    <summary>3C: Identity & ID Clinics <span class="room-tag">D120</span></summary>
+    <div class="session-info">
+        Exploring the logistics and community impact of TransID and regular ID Clinics at GVPL.
+        <span class="presenter">Presenters: Megan Clark, Nina Mosallaei, Caitlin Ottenbreit</span>
+    </div>
+</details>
+
+<details>
+    <summary>3D: Book Histories, Book Futures <span class="room-tag">D101</span></summary>
+    <div class="session-info">
+        Discussing how experiential learning in book arts pedagogical spaces facilitates deeper student engagement.
+        <span class="presenter">Presenters: Heather Dean, Jacob Maddison</span>
+    </div>
+</details>
+
+<details>
+    <summary>3E: Past & Future of Acquisitions <span class="room-tag">D103</span></summary>
+    <div class="session-info">
+        Reflecting on format shifts and threats to perpetual access and budget stability in the next decade.
+        <span class="presenter">Presenters: Kjell Cawsey, Evelyn Feldman</span>
     </div>
 </details>
 
 <div class="time-header">SESSION 4 (2:30 - 3:15 PM)</div>
 <details>
-    <summary>4B: Information Literacy in Legal Research</summary>
+    <summary>4A-1: Search to Sensemaking <span class="room-tag">D110</span></summary>
     <div class="session-info">
-        Transitioning legal research from print to generative AI through interactive tutorial modules and ethical engagement.
-        <span class="presenter">Presenters: Sarah Miller, Emily Nickerson, & Keilah Abello (UVic Libraries)</span>
+        Reflecting on how information literacy instruction has adapted to a complex, turbulent socio-political infosphere.
+        <span class="presenter">Presenter: Justin Harrison</span>
     </div>
 </details>
 
 <details>
-    <summary>4D: Recommending Nonfiction to Adult Readers</summary>
+    <summary>4A-2: Invisible Companion <span class="room-tag">D110</span></summary>
     <div class="session-info">
-        Tips for pairing fiction and narrative nonfiction (biographies, true crime, travel) in reader's advisory.
-        <span class="presenter">Presenter: Nicholle Akin (GVPL)</span>
+        Case study on digital resources fostering cross-cultural understanding regarding youth in 1960s/70s China.
+        <span class="presenter">Presenters: Ying Liu, Bill Blair</span>
     </div>
 </details>
 
-    <p>For those who are interested, here is the <a href="https://gemini.google.com/share/abfac6189f4a">Google Gemini 3.1 vibe code session</a> that created this summary</p>
+<details>
+    <summary>4B: Legal Research & GenAI <span class="room-tag">D134</span></summary>
+    <div class="session-info">
+        Modules designed to help legal researchers critically and ethically engage with rapidly evolving generative AI tools.
+        <span class="presenter">Presenters: Sarah Miller, Emily Nickerson, Keilah Abello</span>
+    </div>
+</details>
+
+<details>
+    <summary>4C-1: Digital Sovereignty <span class="room-tag">D101</span></summary>
+    <div class="session-info">
+        Discussing what digital sovereignty means for libraries and the barriers to achieving it.
+        <span class="presenter">Presenter: Scott Leslie</span>
+    </div>
+</details>
+
+<details>
+    <summary>4C-2: Rescued Geospatial Data <span class="room-tag">D101</span></summary>
+    <div class="session-info">
+        The recovery and sharing of 40TB of hyperspectral and LiDAR data of Vancouver Island.
+        <span class="presenter">Presenters: Daniel Brendle-Moczuk, Gabrielle Wade</span>
+    </div>
+</details>
+
+<details>
+    <summary>4D: Recommending Nonfiction <span class="room-tag">D103</span></summary>
+    <div class="session-info">
+        Tips for narrative nonfiction reader's advisory to bridge fiction and nonfiction collections.
+        <span class="presenter">Presenter: Nicholle Akin</span>
+    </div>
+</details>
+
 </body>
 </html>
